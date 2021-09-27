@@ -20,7 +20,7 @@
 This is a `test`.
 
 ```
-==This is a long quote .==
+This is a long quote .
 ```
 ---
 - [X] do something
