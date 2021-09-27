@@ -52,7 +52,7 @@ print s
 ```
 ---
 javascript code
-```js=
+```js
 1 var s = "JavaScript syntax highlighting";
 2 alert(s);
 ```
