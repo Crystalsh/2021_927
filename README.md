@@ -48,7 +48,7 @@ Strikethrough uses two tildes. ~~Scratch this~~.
 ---
 - [X] do something
 - [ ] 2nd
-- [ ] undo
+- [ ] undo \
 
 - [ ] todo list
 - [ ] 2nd things
