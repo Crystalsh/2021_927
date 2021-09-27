@@ -20,7 +20,23 @@ This is a `test`.
 ```
 This is a long quote .
 ```
-
+---
+- [X] do something
+- [ ] 2nd
+- [ ] undo
+---
+python code
+```python
+1 s = "Python syntax highlighting"
+2 print s
+```
+---
+javascript code
+```js
+1 var s = "JavaScript syntax highlighting"
+2 alert(s);
+```
+---
 | Tables | Are | Cool |
 |:---------|:---------:|----------:|
 |col 3 is|right-aligned|$1600|
@@ -31,9 +47,3 @@ This is a long quote .
 |:---------|:---------:|----------:|
 | *Still*| `renders`| **nicely**|
 |1|2|3|
-
-
-
-- [X] do something
-- [ ] 2nd
-- [ ] undo
