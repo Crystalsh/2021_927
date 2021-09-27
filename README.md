@@ -47,14 +47,14 @@ Strikethrough uses two tildes. ~~Scratch this~~.
 ---
 python code
 ```python =
-s = "Python syntax highlighting"
-print s
+1 s = "Python syntax highlighting"
+2 print s
 ```
 ---
 javascript code
 ```javascript =
-var s = "JavaScript syntax highlighting";
-alert(s);
+1 var s = "JavaScript syntax highlighting";
+2 alert(s);
 ```
 ---
 Colons can be used to align columns.
