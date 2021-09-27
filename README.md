@@ -24,7 +24,11 @@ This is a `test`.
 This is a long quote .
 ```
 ---
+- [X] do something
+- [ ] 2nd
+- [ ] undo 
 
+---
 Emphasis, aka *italics*, with *asterisks* or *underscores*.
 
 Strong emphasis, aka bold, with **asterisks** or **underscores**.
@@ -46,10 +50,6 @@ Strikethrough uses two tildes. ~~Scratch this~~.
     + note 3
 
 ---
-- [X] do something
-- [ ] 2nd
-- [ ] undo \
-
 - [ ] todo list
 - [ ] 2nd things
 
