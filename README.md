@@ -20,7 +20,7 @@
 This is a `test`.
 
 ```
-This is a long quote .
+==This is a long quote .==
 ```
 ---
 - [X] do something
@@ -28,7 +28,7 @@ This is a long quote .
 - [ ] undo 
 
 ---
-Emphasis, aka *italics*, with *asterisks* or *underscores*.
+==Emphasis== , aka *italics*, with *asterisks* or *underscores*.
 
 Strong emphasis, aka bold, with **asterisks** or **underscores**.
 
