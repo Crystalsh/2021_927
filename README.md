@@ -52,9 +52,9 @@ print s
 ```
 ---
 javascript code
-```js
-1 var s = "JavaScript syntax highlighting";
-2 alert(s);
+```js=
+var s = "JavaScript syntax highlighting";
+alert(s);
 ```
 ---
 Colons can be used to align columns.
