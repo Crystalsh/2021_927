@@ -16,7 +16,7 @@
 
 [高科大](https://www.nkust.edu.tw/)
 
-[![幽霊東京](https://img.youtube.com/vi/lWl5viCqGSc/0.jpg)](https://www.youtube.com/watch?v=RQ76vkzmolQ "Ghost Astley Tokyo")
+[![Ghost Astley Tokyo](https://img.youtube.com/vi/lWl5viCqGSc/0.jpg)](https://www.youtube.com/watch?v=RQ76vkzmolQ "老子直接在自己的作業釣魚")
 
 ![nkust](https://www.nkust.edu.tw/var/file/0/1000/img/513/182513897.png "沒有說明沒有連結")
 
