@@ -35,9 +35,9 @@ Strikethrough uses two tildes. ~~Scratch this~~.
 ---
 1. First ordered list item
 2. Another item\
-‧‧* Unordered sub-list.
+‧‧ * Unordered sub-list.
 3. Actual numbers don't matter, just that it's a number\
-‧‧1. Order sub-list\
+‧‧ 1. Order sub-list\
 ...2. 2nd
 4. And another item.\
 ...* note 1\
