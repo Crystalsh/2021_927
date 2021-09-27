@@ -33,7 +33,7 @@ python code
 ---
 javascript code
 ```js
-1 var s = "JavaScript syntax highlighting"
+1 var s = "JavaScript syntax highlighting";
 2 alert(s);
 ```
 ---
@@ -47,3 +47,4 @@ javascript code
 |:---------|:---------:|----------:|
 | *Still*| `renders`| **nicely**|
 |1|2|3|
+
