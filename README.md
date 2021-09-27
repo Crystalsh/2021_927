@@ -28,7 +28,6 @@ This is a `test`.
 - [ ] undo 
 
 ---
-:::
 Emphasis, aka *italics*, with *asterisks* or *underscores*.
 
 Strong emphasis, aka bold, with **asterisks** or **underscores**.
@@ -36,7 +35,6 @@ Strong emphasis, aka bold, with **asterisks** or **underscores**.
 Combined emphasis with **asterisks and _underscores_**.
 
 Strikethrough uses two tildes. ~~Scratch this~~.
-:::
 
 ---
 1. First ordered list item
