@@ -16,7 +16,7 @@
 
 [高科大](https://www.nkust.edu.tw/)
 
-![](https://www.nkust.edu.tw/var/file/0/1000/img/513/182513897.png "")
+![nkust](https://www.nkust.edu.tw/var/file/0/1000/img/513/182513897.png "沒有說明沒有連結")
 
 This is a `test`.
 
